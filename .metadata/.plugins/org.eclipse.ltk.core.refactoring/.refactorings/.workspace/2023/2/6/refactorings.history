@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;Programming/OK_javaGoinHome.java&apos;" deleteContents="false" description="Delete resource &apos;Programming/OK_javaGoinHome.java&apos;" element1="/Programming/OK_javaGoinHome.java" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1675748814100"/>&#x0A;<refactoring comment="Delete resource &apos;Programming/OkJavaGoInHomeInput.java&apos;" deleteContents="false" description="Delete resource &apos;Programming/OkJavaGoInHomeInput.java&apos;" element1="/Programming/OkJavaGoInHomeInput.java" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1675919643038"/>
+</session>
